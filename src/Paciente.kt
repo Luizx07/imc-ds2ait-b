@@ -1,6 +1,6 @@
 import java.time.LocalDate
 import kotlin.math.pow
-
+//luiz
 class Paciente {
 
     var nome: String = ""
